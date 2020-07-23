@@ -1,0 +1,5 @@
+function area(width, height)
+{
+document.write(width*height)
+}
+area(3,5);
